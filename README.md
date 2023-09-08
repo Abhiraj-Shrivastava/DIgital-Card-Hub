@@ -1,2 +1,2 @@
-# DIgital-Card-Hub
+# Digital-Card-Hub
 Project
